@@ -54,7 +54,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     font-weight: bold;
-    font-size: clamp(19px, 2vw, 2vw);
+    font-size: clamp(29px, 2vw, 2vw);
 }
 
 .progress__controlers-wrapper {
@@ -121,8 +121,8 @@ body {
         gap: 7%;
     }
     .progress__circle-wrapper {
-        width: 20vw;
-        height: 20vw;
+        width: 25vw;
+        height: 25vw;
     }
     .progress__controlers-wrapper{
         width: 20vw;
