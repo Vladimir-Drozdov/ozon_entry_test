@@ -20,7 +20,6 @@ body {
 
 .progress__circle-wrapper--hide-circle {
     opacity: 0;
-    display: none;
     visibility: hidden;
 }
 
